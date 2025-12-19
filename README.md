@@ -1,5 +1,4 @@
-[데이터셋_정리.txt](https://github.com/user-attachments/files/24248950/_.txt)
-cosmos av 데이터셋
+[데이터셋_정리] cosmos av 데이터셋
 ----------------------------------------------------------
 
 [메타 정보]
